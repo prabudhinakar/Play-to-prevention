@@ -1,4 +1,4 @@
-# Find the bully
+# what's what
 - A choice based interactive drama game where you play like a teenager and go around places and bully / get bullied based on your choices to create awareness.
 
 ![alt text](<WhatsApp Image 2026-10-19 at 2.27.50 PM.jpeg>)
@@ -25,5 +25,5 @@
 - Bus Stop: A bystander witnesses bullying but fears becoming the next target.
 
 # The main goal
-- Building empathy through experience. Rather than telling players what is right or wrong, Find the Bully allows them to experience the consequences of their choices, understand different perspectives, and recognise how small actions can contribute to or prevent bullying.
+- Building empathy through experience. Rather than telling players what is right or wrong, 'what's what' allows them to experience the consequences of their choices, understand different perspectives, and recognise how small actions can contribute to or prevent bullying.
 
