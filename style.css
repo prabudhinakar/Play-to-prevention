@@ -1,0 +1,23 @@
+:root { --accent: #ff8a3d; }
+
+.reveal h1, .reveal h2, .reveal h3 { text-transform: none; }
+.reveal h1 { line-height: 1.15; }
+.reveal ul, .reveal ol { display: block; }
+.reveal .small { font-size: 0.55em; opacity: 0.7; }
+
+.badge {
+  width: 90px; height: 90px; margin: 0 auto 20px;
+  border-radius: 50%; background: var(--accent); color: #fff;
+  font-size: 44px; line-height: 90px;
+}
+
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 20px; }
+.grid.three { grid-template-columns: repeat(3, 1fr); }
+.card {
+  background: rgba(255,255,255,0.06); border-radius: 12px;
+  padding: 14px 20px; text-align: left; font-size: 0.65em;
+}
+.card h3 { color: var(--accent); margin: 0 0 6px; font-size: 1.2em; }
+.card p { margin: 0; }
+
+.steps li::marker { color: var(--accent); font-weight: bold; }
