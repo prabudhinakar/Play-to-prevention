@@ -14,7 +14,7 @@ A 13-year-old streamer gets "marked" by the one person who's supposed to protect
 
 ## Pitch
 
-Mark is 13, a rising Twitch streamer who's dealing with puberty and a popularity he never asked for. His sister Hannah, 14, used to be the family's golden child, and now she watches their parents rave about him. So she starts humiliating him with embarrassing clips and comments, and her mod powers make it spread faster. How far will she go to get her family's attention back, and what happens when breaking her brother is the only way she feels seen?
+Mark is 13, a rising Twitch streamer who's dealing with puberty and a popularity he never asked for. His sister Hannah, 15, used to be the family's golden child, and now she watches their parents rave about him. So she starts humiliating him with embarrassing clips and comments, and her mod powers make it spread faster. How far will she go to get her family's attention back, and what happens when breaking her brother is the only way she feels seen?
 
 ---
 
